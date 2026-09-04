@@ -322,3 +322,22 @@ nav a:hover {
     align-items: flex-start;
   }
 }
+
+/* Under-construction banner */
+.construction {
+  background: #fef3c7;
+  border-bottom: 1px solid #f59e0b;
+  color: #78350f;
+  font-size: 0.95rem;
+}
+
+.construction-inner {
+  display: flex;
+  align-items: center;
+  gap: 0.7rem;
+  padding: 0.55rem 0;
+}
+
+.construction-sign {
+  flex: none;
+}
