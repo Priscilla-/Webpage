@@ -119,7 +119,7 @@ nav a:hover {
 }
 
 .lead {
-  font-size: 1.08rem;
+  font-size: 1.2rem;
   color: var(--muted);
   max-width: 65ch;
 }
