@@ -8,7 +8,7 @@ Plain static HTML and CSS — no build step, no dependencies.
 ## Structure
 
 - `index.html` — home
-- `about/`, `research/`, `publications/`, `teaching/`, `contact/` — one page each
+- `about/`, `research/`, `publications/`, `teaching/`, `outreach/`, `contact/` — one page each
 - `assets/css/style.css` — the single stylesheet
 - `assets/images/` — hero background (`hero.jpg`) and, optionally, a profile photo
 
