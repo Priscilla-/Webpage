@@ -100,7 +100,7 @@ nav a:hover {
 
 .hero-grid {
   display: grid;
-  grid-template-columns: 210px 1fr;
+  grid-template-columns: 168px 1fr;
   gap: 2.5rem;
   align-items: stretch;
 }
@@ -345,7 +345,7 @@ nav a:hover {
   .hero .portrait {
     aspect-ratio: 1 / 1;
     height: auto;
-    max-width: 150px;
+    max-width: 120px;
   }
 }
 
