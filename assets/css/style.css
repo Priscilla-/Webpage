@@ -100,9 +100,14 @@ nav a:hover {
 
 .hero-grid {
   display: grid;
-  grid-template-columns: 120px 1fr;
+  grid-template-columns: 210px 1fr;
   gap: 2.5rem;
-  align-items: center;
+  align-items: stretch;
+}
+
+.hero .portrait {
+  aspect-ratio: auto;
+  height: 100%;
 }
 
 .badge {
@@ -338,7 +343,9 @@ nav a:hover {
   }
 
   .hero .portrait {
-    max-width: 120px;
+    aspect-ratio: 1 / 1;
+    height: auto;
+    max-width: 150px;
   }
 }
 
